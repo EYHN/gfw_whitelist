@@ -370,6 +370,7 @@
 ! T
 ||tanx.com
 ||taobao.com
+||taobao.org
 ||taobaocdn.com
 ||tbcdn.cn
 ||tencent.com
